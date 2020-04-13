@@ -33,7 +33,7 @@ let map = L.map('mapid', {
 let baseMaps = {
   "Streets": streets,
   "Satellite": satelliteStreets,
-  Dark: dark
+  "Dark": dark
 };
 
 // Create the layers for our two different sets of data, earthquakes and tectonicplates.
